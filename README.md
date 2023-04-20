@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python3.11.1-darkcyan?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finferiorak%2FRansoInferor&title=Visitors&edge_flat=false"/></a>
 
